@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <EmBitz_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="src\button.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="src\button.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="0" topLine="130" />
+			<Cursor1 position="2688" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="src\button.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1063" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\config.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="34" />
 		</Cursor>
 	</File>
 	<File name="src\led.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -11,9 +21,24 @@
 			<Cursor1 position="0" topLine="183" />
 		</Cursor>
 	</File>
-	<File name="src\main.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="src\main.c" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="11995" topLine="314" />
+			<Cursor1 position="5477" topLine="136" />
+		</Cursor>
+	</File>
+	<File name="src\startup_stm32f0xx.S" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4985" topLine="97" />
+		</Cursor>
+	</File>
+	<File name="src\stm32f0xx_it.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="94" />
+		</Cursor>
+	</File>
+	<File name="STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_tim.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1801" topLine="33" />
 		</Cursor>
 	</File>
 </EmBitz_layout_file>

@@ -134,6 +134,8 @@ int main(void)
     ButtonExtern_init();
     BankPresetItem_init();
 
+    TIM3->CNT = 0xFFFF/2;
+
     uint32_t cnt = TIM3->CNT;
     uint32_t cntPrev = cnt;
 
@@ -153,21 +155,31 @@ int main(void)
         if (delay_ms > 0) {
             delay_ms--;
         }
+
         cnt = TIM3->CNT;
-        if (cnt != cntPrev) {
-            if (cnt > cntPrev) {
+        if (cnt != cntPrev)
+        {
+            if (cnt > cntPrev)
+            {
                 cntInc++;
-            } else {
+            }
+            else
+            {
                 cntDec++;
             }
             cntPrev = cnt;
         }
-        if (cntInc >= 2 || cntDec >= 2) {
-            if ((presetNext == 0xff) || (bankNext == 0xff)) {   // Нет следующего состояния
+
+        if (cntInc >= 2 || cntDec >= 2)
+        {
+            if ((presetNext == 0xff) || (bankNext == 0xff))
+            {   // Нет следующего состояния
                 presetNext  = preset;
                 bankNext    = bank;
             }
-            if (cntInc > cntDec) {
+
+            if (cntInc > cntDec)
+            {
                 increment(&presetNext, &bankNext);
             } else {
                 decrement(&presetNext, &bankNext);
@@ -176,6 +188,7 @@ int main(void)
             cntInc = cntDec = 0;
             delay_ms = 10;
         }
+
         uint8_t press = ButtonEncoder_isPress();    /// Кнопка Енкодера
         if (!press) {           // основная кнопка не нажата
             externPress = ButtonExtern_get();
@@ -270,7 +283,7 @@ static void MX_TIM3_Init(void)
   htim3.Instance = TIM3;
   htim3.Init.Prescaler = 0;
   htim3.Init.CounterMode = TIM_COUNTERMODE_UP;
-  htim3.Init.Period = 255;
+  htim3.Init.Period = 0xFFFF;
   htim3.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
   htim3.Init.AutoReloadPreload = TIM_AUTORELOAD_PRELOAD_DISABLE;
   sConfig.EncoderMode = TIM_ENCODERMODE_TI1;
