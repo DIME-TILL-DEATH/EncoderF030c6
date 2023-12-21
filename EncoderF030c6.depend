@@ -1,0 +1,1088 @@
+# depslib dependency file v1.0
+1587388669 source:d:\stm32\projects\encoderf030c6\src\button.c
+	"stm32f0xx.h"
+	"stm32f0xx_hal.h"
+	"stm32f0xx_hal_gpio.h"
+	"button.h"
+
+1604067873 d:\stm32\projects\encoderf030c6\inc\stm32f0xx.h
+	"stm32f030x6.h"
+	"stm32f030x8.h"
+	"stm32f031x6.h"
+	"stm32f038xx.h"
+	"stm32f042x6.h"
+	"stm32f048xx.h"
+	"stm32f051x8.h"
+	"stm32f058xx.h"
+	"stm32f070x6.h"
+	"stm32f070xb.h"
+	"stm32f071xb.h"
+	"stm32f072xb.h"
+	"stm32f078xx.h"
+	"stm32f091xc.h"
+	"stm32f098xx.h"
+	"stm32f030xc.h"
+	"stm32f0xx_hal.h"
+	"stdint.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\inc\stm32f030x6.h
+	"core_cm0.h"
+	"system_stm32f0xx.h"
+	<stdint.h>
+
+1604066040 d:\stm32\projects\encoderf030c6\cmsis\core_cm0.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+
+1604066040 d:\stm32\projects\encoderf030c6\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1604066040 d:\stm32\projects\encoderf030c6\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1604067991 d:\stm32\projects\encoderf030c6\inc\system_stm32f0xx.h
+	"stdint.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal.h
+	"stm32f0xx_hal_conf.h"
+
+1586409517 d:\stm32\projects\encoderf030c6\src\stm32f0xx_hal_conf.h
+	"main.h"
+	"stm32f0xx_hal_rcc.h"
+	"stm32f0xx_hal_gpio.h"
+	"stm32f0xx_hal_dma.h"
+	"stm32f0xx_hal_cortex.h"
+	"stm32f0xx_hal_adc.h"
+	"stm32f0xx_hal_can.h"
+	"stm32f0xx_hal_cec.h"
+	"stm32f0xx_hal_comp.h"
+	"stm32f0xx_hal_crc.h"
+	"stm32f0xx_hal_dac.h"
+	"stm32f0xx_hal_flash.h"
+	"stm32f0xx_hal_i2c.h"
+	"stm32f0xx_hal_i2s.h"
+	"stm32f0xx_hal_irda.h"
+	"stm32f0xx_hal_iwdg.h"
+	"stm32f0xx_hal_pcd.h"
+	"stm32f0xx_hal_pwr.h"
+	"stm32f0xx_hal_rtc.h"
+	"stm32f0xx_hal_smartcard.h"
+	"stm32f0xx_hal_smbus.h"
+	"stm32f0xx_hal_spi.h"
+	"stm32f0xx_hal_tim.h"
+	"stm32f0xx_hal_tsc.h"
+	"stm32f0xx_hal_uart.h"
+	"stm32f0xx_hal_usart.h"
+	"stm32f0xx_hal_wwdg.h"
+
+1587390924 d:\stm32\projects\encoderf030c6\src\main.h
+	"stm32f0xx.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_rcc.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_rcc_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_def.h
+	"stm32f0xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stddef.h>
+
+1569485735 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_rcc_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_gpio.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_gpio_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_gpio_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_dma.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_dma_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_dma_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_cortex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_adc.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_adc_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_adc_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_can.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_cec.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_comp.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_crc.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_crc_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_crc_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_dac.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_dac_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_dac_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_flash.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_flash_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_flash_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_i2c.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_i2c_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_i2c_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_i2s.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_irda.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_irda_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_irda_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_iwdg.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_pcd.h
+	"stm32f0xx_ll_usb.h"
+	"stm32f0xx_hal_pcd_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_usb.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_pcd_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_pwr.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_pwr_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_pwr_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_rtc.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_rtc_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_rtc_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_smartcard.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_smartcard_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_smartcard_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_smbus.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_spi.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_spi_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_spi_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_tim.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_tim_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_tim_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_tsc.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_uart.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_uart_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_uart_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_usart.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_usart_ex.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_usart_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_wwdg.h
+	"stm32f0xx_hal_def.h"
+
+1604066128 d:\stm32\projects\encoderf030c6\cmsis\cmsis_gcc.h
+	"stm32f030x6.h"
+
+1587388663 d:\stm32\projects\encoderf030c6\src\button.h
+	"stm32f0xx_hal.h"
+
+1587391501 source:d:\stm32\projects\encoderf030c6\src\config.c
+	"stm32f0xx.h"
+	"stm32f0xx_hal.h"
+	"stm32f0xx_hal_flash.h"
+	"config.h"
+
+1587178438 d:\stm32\projects\encoderf030c6\src\config.h
+	"stm32f0xx.h"
+
+1587390941 source:d:\stm32\projects\encoderf030c6\src\led.c
+	"stm32f0xx.h"
+	"stm32f0xx_hal.h"
+	"stm32f0xx_hal_gpio.h"
+	"countof.h"
+	"led.h"
+
+1475293263 d:\stm32\projects\encoderf030c6\src\countof.h
+
+1587129705 d:\stm32\projects\encoderf030c6\src\led.h
+
+1587390883 source:d:\stm32\projects\encoderf030c6\src\main.c
+	"stm32f0xx_hal.h"
+	"led.h"
+	"button.h"
+	"config.h"
+	"main.h"
+
+1604066039 source:d:\stm32\projects\encoderf030c6\src\startup_stm32f0xx.s
+
+1586620593 source:d:\stm32\projects\encoderf030c6\src\stm32f0xx_hal_msp.c
+	"stm32f0xx_hal.h"
+
+1586444623 source:d:\stm32\projects\encoderf030c6\src\stm32f0xx_it.c
+	"stm32f0xx_hal.h"
+	"stm32f0xx.h"
+	"stm32f0xx_it.h"
+	"button.h"
+
+1586409516 d:\stm32\projects\encoderf030c6\src\stm32f0xx_it.h
+	"stm32f0xx_hal.h"
+	"main.h"
+
+1585288357 source:d:\stm32\projects\encoderf030c6\src\system_stm32f0xx.c
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_adc.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_adc_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_can.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_cec.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_comp.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_cortex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_crc.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_crc_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_dac.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_dac_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_dma.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_exti.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_flash.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_flash_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_gpio.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_i2c.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_i2c_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_i2s.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_irda.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_iwdg.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_pcd.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_pcd_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_pwr.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_pwr_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_rcc.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_rcc_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_rtc.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_rtc_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_smbus.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_spi.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_spi_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_tim.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_tim_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_tsc.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_uart.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_uart_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_usart.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_usart_ex.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_wwdg.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_adc.c
+	"stm32f0xx_ll_adc.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_adc.h
+	"stm32f0xx.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_bus.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_comp.c
+	"stm32f0xx_ll_comp.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_comp.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_crc.c
+	"stm32f0xx_ll_crc.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_crc.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_crs.c
+	"stm32f0xx_ll_crs.h"
+	"stm32f0xx_ll_bus.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_crs.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_dac.c
+	"stm32f0xx_ll_dac.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_dac.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_dma.c
+	"stm32f0xx_ll_dma.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_dma.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_exti.c
+	"stm32f0xx_ll_exti.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_exti.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_gpio.c
+	"stm32f0xx_ll_gpio.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_gpio.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_i2c.c
+	"stm32f0xx_ll_i2c.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_i2c.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_pwr.c
+	"stm32f0xx_ll_pwr.h"
+	"stm32f0xx_ll_bus.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_pwr.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_rcc.c
+	"stm32f0xx_ll_rcc.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_rcc.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_rtc.c
+	"stm32f0xx_ll_rtc.h"
+	"stm32f0xx_ll_cortex.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_rtc.h
+	"stm32f0xx.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_cortex.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_spi.c
+	"stm32f0xx_ll_spi.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32f0xx_ll_rcc.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_spi.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_tim.c
+	"stm32f0xx_ll_tim.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_tim.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_usart.c
+	"stm32f0xx_ll_usart.h"
+	"stm32f0xx_ll_rcc.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_usart.h
+	"stm32f0xx.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_usb.c
+	"stm32f0xx_hal.h"
+
+1568652601 source:d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_utils.c
+	"stm32f0xx_ll_rcc.h"
+	"stm32f0xx_ll_utils.h"
+	"stm32f0xx_ll_system.h"
+	"stm32_assert.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_utils.h
+	"stm32f0xx.h"
+
+1568652601 d:\stm32\projects\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_system.h
+	"stm32f0xx.h"
+
+1587399469 source:d:\amt\cp16\encodercp16\encoderf030c6\src\button.c
+	"stm32f0xx.h"
+	"stm32f0xx_hal.h"
+	"stm32f0xx_hal_gpio.h"
+	"button.h"
+
+1604078673 d:\amt\cp16\encodercp16\encoderf030c6\inc\stm32f0xx.h
+	"stm32f030x6.h"
+	"stm32f030x8.h"
+	"stm32f031x6.h"
+	"stm32f038xx.h"
+	"stm32f042x6.h"
+	"stm32f048xx.h"
+	"stm32f051x8.h"
+	"stm32f058xx.h"
+	"stm32f070x6.h"
+	"stm32f070xb.h"
+	"stm32f071xb.h"
+	"stm32f072xb.h"
+	"stm32f078xx.h"
+	"stm32f091xc.h"
+	"stm32f098xx.h"
+	"stm32f030xc.h"
+	"stm32f0xx_hal.h"
+	"stdint.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\inc\stm32f030x6.h
+	"core_cm0.h"
+	"system_stm32f0xx.h"
+	<stdint.h>
+
+1604076840 d:\amt\cp16\encodercp16\encoderf030c6\cmsis\core_cm0.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+
+1604076840 d:\amt\cp16\encodercp16\encoderf030c6\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1604076840 d:\amt\cp16\encodercp16\encoderf030c6\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1604078791 d:\amt\cp16\encodercp16\encoderf030c6\inc\system_stm32f0xx.h
+	"stdint.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal.h
+	"stm32f0xx_hal_conf.h"
+
+1586420317 d:\amt\cp16\encodercp16\encoderf030c6\src\stm32f0xx_hal_conf.h
+	"main.h"
+	"stm32f0xx_hal_rcc.h"
+	"stm32f0xx_hal_gpio.h"
+	"stm32f0xx_hal_dma.h"
+	"stm32f0xx_hal_cortex.h"
+	"stm32f0xx_hal_adc.h"
+	"stm32f0xx_hal_can.h"
+	"stm32f0xx_hal_cec.h"
+	"stm32f0xx_hal_comp.h"
+	"stm32f0xx_hal_crc.h"
+	"stm32f0xx_hal_dac.h"
+	"stm32f0xx_hal_flash.h"
+	"stm32f0xx_hal_i2c.h"
+	"stm32f0xx_hal_i2s.h"
+	"stm32f0xx_hal_irda.h"
+	"stm32f0xx_hal_iwdg.h"
+	"stm32f0xx_hal_pcd.h"
+	"stm32f0xx_hal_pwr.h"
+	"stm32f0xx_hal_rtc.h"
+	"stm32f0xx_hal_smartcard.h"
+	"stm32f0xx_hal_smbus.h"
+	"stm32f0xx_hal_spi.h"
+	"stm32f0xx_hal_tim.h"
+	"stm32f0xx_hal_tsc.h"
+	"stm32f0xx_hal_uart.h"
+	"stm32f0xx_hal_usart.h"
+	"stm32f0xx_hal_wwdg.h"
+
+1587401724 d:\amt\cp16\encodercp16\encoderf030c6\src\main.h
+	"stm32f0xx.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_rcc.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_rcc_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_def.h
+	"stm32f0xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stddef.h>
+
+1569496535 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_rcc_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_gpio.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_gpio_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_gpio_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_dma.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_dma_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_dma_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_cortex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_adc.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_adc_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_adc_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_can.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_cec.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_comp.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_crc.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_crc_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_crc_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_dac.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_dac_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_dac_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_flash.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_flash_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_flash_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_i2c.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_i2c_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_i2c_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_i2s.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_irda.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_irda_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_irda_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_iwdg.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_pcd.h
+	"stm32f0xx_ll_usb.h"
+	"stm32f0xx_hal_pcd_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_usb.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_pcd_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_pwr.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_pwr_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_pwr_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_rtc.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_rtc_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_rtc_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_smartcard.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_smartcard_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_smartcard_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_smbus.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_spi.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_spi_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_spi_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_tim.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_tim_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_tim_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_tsc.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_uart.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_uart_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_uart_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_usart.h
+	"stm32f0xx_hal_def.h"
+	"stm32f0xx_hal_usart_ex.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_usart_ex.h
+	"stm32f0xx_hal_def.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_hal_wwdg.h
+	"stm32f0xx_hal_def.h"
+
+1587399463 d:\amt\cp16\encodercp16\encoderf030c6\src\button.h
+	"stm32f0xx_hal.h"
+
+1587402301 source:d:\amt\cp16\encodercp16\encoderf030c6\src\config.c
+	"stm32f0xx.h"
+	"stm32f0xx_hal.h"
+	"stm32f0xx_hal_flash.h"
+	"config.h"
+
+1587189238 d:\amt\cp16\encodercp16\encoderf030c6\src\config.h
+	"stm32f0xx.h"
+
+1587401741 source:d:\amt\cp16\encodercp16\encoderf030c6\src\led.c
+	"stm32f0xx.h"
+	"stm32f0xx_hal.h"
+	"stm32f0xx_hal_gpio.h"
+	"countof.h"
+	"led.h"
+
+1475304063 d:\amt\cp16\encodercp16\encoderf030c6\src\countof.h
+
+1587140505 d:\amt\cp16\encodercp16\encoderf030c6\src\led.h
+
+1587401683 source:d:\amt\cp16\encodercp16\encoderf030c6\src\main.c
+	"stm32f0xx_hal.h"
+	"led.h"
+	"button.h"
+	"config.h"
+	"main.h"
+
+1604076839 source:d:\amt\cp16\encodercp16\encoderf030c6\src\startup_stm32f0xx.s
+
+1586631393 source:d:\amt\cp16\encodercp16\encoderf030c6\src\stm32f0xx_hal_msp.c
+	"stm32f0xx_hal.h"
+
+1586455423 source:d:\amt\cp16\encodercp16\encoderf030c6\src\stm32f0xx_it.c
+	"stm32f0xx_hal.h"
+	"stm32f0xx.h"
+	"stm32f0xx_it.h"
+	"button.h"
+
+1586420316 d:\amt\cp16\encodercp16\encoderf030c6\src\stm32f0xx_it.h
+	"stm32f0xx_hal.h"
+	"main.h"
+
+1585299157 source:d:\amt\cp16\encodercp16\encoderf030c6\src\system_stm32f0xx.c
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_adc.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_adc_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_can.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_cec.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_comp.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_cortex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_crc.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_crc_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_dac.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_dac_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_dma.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_exti.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_flash.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_flash_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_gpio.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_i2c.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_i2c_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_i2s.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_irda.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_iwdg.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_pcd.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_pcd_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_pwr.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_pwr_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_rcc.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_rcc_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_rtc.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_rtc_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_smbus.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_spi.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_spi_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_tim.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_tim_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_tsc.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_uart.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_uart_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_usart.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_usart_ex.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_hal_wwdg.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_adc.c
+	"stm32f0xx_ll_adc.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_adc.h
+	"stm32f0xx.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_bus.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_comp.c
+	"stm32f0xx_ll_comp.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_comp.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_crc.c
+	"stm32f0xx_ll_crc.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_crc.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_crs.c
+	"stm32f0xx_ll_crs.h"
+	"stm32f0xx_ll_bus.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_crs.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_dac.c
+	"stm32f0xx_ll_dac.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_dac.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_dma.c
+	"stm32f0xx_ll_dma.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_dma.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_exti.c
+	"stm32f0xx_ll_exti.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_exti.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_gpio.c
+	"stm32f0xx_ll_gpio.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_gpio.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_i2c.c
+	"stm32f0xx_ll_i2c.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_i2c.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_pwr.c
+	"stm32f0xx_ll_pwr.h"
+	"stm32f0xx_ll_bus.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_pwr.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_rcc.c
+	"stm32f0xx_ll_rcc.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_rcc.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_rtc.c
+	"stm32f0xx_ll_rtc.h"
+	"stm32f0xx_ll_cortex.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_rtc.h
+	"stm32f0xx.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_cortex.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_spi.c
+	"stm32f0xx_ll_spi.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32f0xx_ll_rcc.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_spi.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_tim.c
+	"stm32f0xx_ll_tim.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_tim.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_usart.c
+	"stm32f0xx_ll_usart.h"
+	"stm32f0xx_ll_rcc.h"
+	"stm32f0xx_ll_bus.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_usart.h
+	"stm32f0xx.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_usb.c
+	"stm32f0xx_hal.h"
+
+1568663401 source:d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\src\stm32f0xx_ll_utils.c
+	"stm32f0xx_ll_rcc.h"
+	"stm32f0xx_ll_utils.h"
+	"stm32f0xx_ll_system.h"
+	"stm32_assert.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_utils.h
+	"stm32f0xx.h"
+
+1568663401 d:\amt\cp16\encodercp16\encoderf030c6\stm32f0xx_hal_driver\inc\stm32f0xx_ll_system.h
+	"stm32f0xx.h"
+
